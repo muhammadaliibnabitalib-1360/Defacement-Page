@@ -12,15 +12,11 @@
 
 সাইবার নিরাপত্তা শিক্ষা, গবেষণা এবং সচেতনতার উদ্দেশ্যে তৈরি একটি ডেমো প্রজেক্ট।
 
-## Preview
 
 <p align="center">
   <img src="banner2.jpg" width="800">
 </p>
 
-## Live Demo
-
-🔗 https://muhammadaliibnabitalib-1360.github.io/Defacement-Page/
 
 ## Disclaimer
 
@@ -30,5 +26,5 @@
 
 BNCT_1360
 
-GitHub:
+1360
 https://github.com/muhammadaliibnabitalib-1360
